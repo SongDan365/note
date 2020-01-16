@@ -1,0 +1,27 @@
+anyone           pron.     （用于疑问句、否定式）任何人
+knock            v.        敲，打
+everything       pron.     一切事物
+quiet            adj.      宁静的，安静的
+impossible       adj.      不可能的
+invite           v.        邀请
+anything         pron.     任何东西
+nothing          pron.     什么也没有
+lemonade         n.        柠檬水
+joke             v.        开玩笑
+asleep           adj.      睡觉，睡着
+glasses          n.        眼镜
+everyone         pron.     每个人
+everybody        pron.     每个人
+something        pron.     某物，某事
+
+---
+
+1. Isn't there anyone at home? 家里没人吗？anyone不定代词
+
+2. nice and...
+   放在形容词或副词前以加强语气。一般表示褒义，有时也用于贬义。
+
+3. There's none left. 一点儿都没剩下。
+   left 是过去分词，修饰none。
+
+---

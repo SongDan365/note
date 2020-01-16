@@ -1,0 +1,28 @@
+pilot             n.      飞行员
+return            v.      返回
+New York          n.      纽约
+Tokyo             n.      东京
+Madrid            n.      马德里
+fly flew flown    v.      飞行
+Athens            n.      雅典
+Berlin            n.      柏林
+Bombay            n.      孟买
+Geneva            n.      日内瓦
+Moscow            n.      莫斯科
+Rome              n.      罗马
+Seoul             n.      首尔
+Stockholm         n.      斯德哥尔摩
+Sydney            n.      悉尼
+royal             adj.    皇家的
+force             n.      军队
+
+---
+
+1. next-door neighbour，隔壁邻居。
+
+2. the R.A.F. = the Royal Air Force，英国皇家空军。
+
+3. He is only forty-one years old and he has ...
+   本句中 and 相当于 but。
+
+---

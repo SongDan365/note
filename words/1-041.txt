@@ -1,0 +1,28 @@
+cheese           n.         乳酪，干酪
+bread            n.         面包
+soap             n.         肥皂
+chocolate        n.         巧克力
+sugar            n.         糖
+coffee           n.         咖啡
+tea              n.         茶
+tobacco          n.         烟草，烟丝
+bird             n.         鸟
+any              pron.      一些
+some             pron.      一些
+quarter          n.         四分之一
+
+---
+
+1. Not very. 是 “it is not very heavy.” 的省略形式，常用于口语。
+
+2. a piece of，一块，一张，一片，用在不可数名词前，表示数量，又如：a piece of bread，一片面包。
+   本课表示数量的短语还有：
+   a loaf of，一条
+   a bar of，一块
+   a bottle of，一瓶
+   a pound of，一磅
+   half a pound of，半磅
+   a quarter of，四分之一
+   a tin of，一罐，一盒
+
+---

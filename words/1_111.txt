@@ -1,0 +1,17 @@
+model          n.    型号，样式
+afford         v.    付得起（钱）
+deposit        n.    预付定金
+instalment     n.    分期付款
+price          n.    价格
+millionaire    n.    百万富翁
+
+---
+
+1. 两个音节以上的形容词比较级用 more/less，最高级用 most/least。
+   例子：This model's less expensive than that one. The other models's more expensive. It's the most expensive model in the shop.
+
+2. it's not as good as the expensive one，not as ... as ... 可以用来比较，意思是前面的不如后面的。
+
+3. buy...on installments, 以分期付款的方式购买。
+
+---

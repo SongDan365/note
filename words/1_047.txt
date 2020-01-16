@@ -1,0 +1,31 @@
+like             v.      喜欢，想要
+want             v.      想
+fresh            adj.    新鲜的
+egg              n.      鸡蛋
+butter           n.      黄油
+pure             adj.    纯净的
+honey            n.      蜂蜜
+ripe             adj.    成熟的
+banana           n.      香蕉
+jam              n.      果酱
+sweet            adj.    甜的
+orange           n.      橙
+Scotch whisky            苏格兰威士忌
+choice           adj.    上等的
+apple            n.      苹果
+wine             n.      酒，果酒
+beer             n.      啤酒
+blackboard       n.      黑板
+
+---
+
+1. Do you want a cup?
+   句中的 a cup 后面省略了 of coffee。英语中的动词主要有及物动词和不及物动词两大类，及物动词的后面要有名词或名词性短语做宾语。like 和 want 都是及物动词。
+
+2. 
+
+3.
+
+4.
+
+---

@@ -1,0 +1,32 @@
+conductor      n.        售票员
+fare           n.        车费，车票
+change         v.        兑换（钱）
+note           n.        纸币
+passenger      n.        乘客
+none           pron.     没有任何东西
+neither        adv.      也不
+get off                  下车
+tramp          n.        流浪汉
+except         prep.     除...之外
+square         n.        广场
+expression     n.        词组
+
+---
+
+1. Fares, please! 请买票！这是售票员用语。
+
+2. Trafalgar Square 特拉法加广场，位于伦敦市区
+
+3. I've got no small change，我没有一点零钱。no+名词表示所指的东西全然没有，比 I haven't got any small change 更有强调的意思。
+
+4. I've got none. none可以和可数名词和不可数名词连用。如 none of our passengers can change this note.
+
+5. Neither can I.
+   有人说了一个否定的话，这句话也适用于你，就可以用上面的句子。
+
+6. get off the bus. 下车。
+
+7. So have I.
+   有人说了肯定的话，这句话也适用于你，就可以用上面的句子。
+
+---
