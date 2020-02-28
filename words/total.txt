@@ -1,15 +1,28 @@
-excuse -> 1-1
+lesson
+excuse
 me
-yes
-is
+listen
+to
+the
+tape
+then
+answer
 this
-your
+question
+whose
 handbag
-pardon
+is
 it
-thank you
-very much
-pen -> 1-2
+yes
+your
+pardon
+thank
+you
+very
+much
+thank-you
+very-much
+pen
 pencil
 book
 watch
@@ -19,72 +32,76 @@ skirt
 shirt
 car
 house
-umbrella -> 1-3
+sorry
+sir
+does
+man
+get
+his
+umbrella
+back
+my
+and
 please
 here
-my
 ticket
 number
 five
-sorry
-sir
+not
+no
 cloakroom
 suit
 school
 teacher
 son
 daughter
-Mr.
-good
-morning
-Miss
-new
-student
-French
-German
 nice
 meet
-Japanese
-Korean
-Chinese
+chinese
+good
+morning
+mr.
+miss
+a
+new
+student
+she
+french
+he
+german
+japanese
+korean
 too
 make
-Swedish
-English
-American
-Italian
-Volvo
-Peugeot
-Mercedes
-Toyota
-Daewoo
-Mini
-Ford
-Fiat
-I
-am
+swedish
+english
+american
+italian
 are
-name
 what
-nationality
 job
+i
+am
+name
+nationality
 keyboard
 operator
+an
 engineer
 policeman
 policewoman
-taxi driver
-air hostess
+taxi-driver
+air-hostess
 postman
 nurse
 mechanic
 hairdresser
 housewife
 milkman
-hello
-hi
 how
 today
+hello
+hi
 well
 fine
 thanks
@@ -103,10 +120,10 @@ old
 young
 busy
 lazy
-whose
+white
+that
 blue
 perhaps
-white
 catch
 father
 mother
@@ -114,762 +131,16 @@ blouse
 sister
 tie
 brother
-his
 her
-color
+colour
+hat
 green
 come
 upstairs
+look
 smart
-hat
 same
 lovely
 case
 carpet
 dog
-customs
-officer
-girl
-Danish
-friend
-Norwegian
-passport
-brown
-tourist
-Russian
-Dutch
-these
-red
-grey
-yellow
-black
-orange
-employee
-hard-working
-sales rep
-man
-office
-assistant
-matter
-children
-tired
-boy
-thirsty
-Mum
-sit down
-right
-ice cream
-big
-small
-open
-shut
-light
-heavy
-long
-shoe
-grandfather
-grandmother
-give
-one
-which
-empty
-full
-large
-little
-sharp
-blunt
-box
-glass
-cup
-bottle
-tin
-knife
-fork
-spoon
-on
-shelf
-desk
-table
-plate
-cupboard
-cigarette
-television
-floor
-dressing table
-magazine
-bed
-newspaper
-stereo
-where
-in
-living room
-near
-window
-armchair
-door
-picture
-wall
-trousers
-bedroom
-untidy
-must
-air
-put
-clothes
-wardrobe
-dust
-sweep
-read
-sharpen
-put on
-take
-turn on
-turn off
-garden
-under
-tree
-climb
-who
-run
-grass
-after
-across
-cat
-type
-letter
-tasket
-eat
-bone
-tooth
-cook
-milk
-meal
-drink
-tap
-day
-cloud
-sky
-sun
-shine
-with
-family
-walk
-over
-bridge
-boat
-river
-ship
-aeroplane
-fly
-sleep
-shave
-cry
-wash
-wait
-jump
-photograph -> 1-35
-village
-valley
-between
-hill
-another
-wife
-along
-bank
-water
-swim
-building
-park
-into
-beside    -> 36
-off
-work ->37
-hard
-bookcase
-hammer
-paint
-pink
-favourite
-homework -> 38
-listen
-dish
-front -> 39
-in front of
-careful
-vase
-drop
-flower
-show -> 40
-send
-cheese -> 41
-bread
-soap
-chocolate
-sugar
-coffee
-tea
-tobacco
-bird -> 42
-any
-some
-of course -> 43
-kettle
-behind
-teapot
-now
-find
-boil
-can -> 45
-boss
-minute
-ask
-handwriting
-terrible
-lift -> 46
-cake
-biscuit
-like -> 47
-want
-fresh -> 48
-egg
-butter
-pure
-honey
-ripe
-banana
-jam
-sweet
-Scotch whisky
-choice
-apple
-wine
-beer
-blackboard
-butcher -> 49
-meat
-beef
-lamb
-husband
-steak
-mince
-chicken
-tell
-truth
-either
-tomato -> 50
-potato
-cabbage
-lettuce
-pea
-bean
-pear
-grape
-peach
-Greece -> 51
-climate
-country
-pleasant
-weather
-spring
-windy
-warm
-rain
-sometimes
-summer
-autumn
-winter
-snow
-January
-February
-March
-April
-May
-June
-July
-August
-September
-October
-November
-December
-the US -> 52
-Brazil
-Holland
-England
-France
-Germany
-Italy
-Norway
-Russia
-Spain
-Sweden
-mild -> 53
-always
-north
-east
-wet
-west
-south
-season
-best
-night
-rise
-early
-set
-late
-interesting
-subject
-conversation
-Australia -> 54
-australian
-Austria
-Austrian
-Canada
-Canadian
-China
-Finland
-finnish
-India
-Indian
-Japan
-Nigeria
-Nigerian
-Turkey
-Turkish
-Korea
-Poland
-Polish
-Thailand
-Thai
-live -> 55
-stay
-home
-housework
-lunch
-afternoon
-usually
-together
-evening
-arrive
-o'clock -> 57
-shop
-moment
-envelope -> 59
-writing paper
-shop assistant
-size
-pad
-glue
-chalk
-change
-feel -> 61
-look
-call
-doctor
-telephone
-remember
-mouth
-tongue
-bad
-news
-headache -> 62
-aspirin
-earache
-toothache
-dentist
-stomach ache
-medicine
-tempurature
-flu
-measles
-mumps
-better -> 63
-certainly
-get up
-yet
-rich
-food
-remain
-play -> 64
-match
-talk
-library
-drive
-so
-quickly
-lean out of
-break
-noise
-Dad -> 65
-key
-baby
-hear
-enjoy
-yourself
-ourselves
-mum
-myself -> 66
-themselves
-himself
-herself
-greengrocer -> 67
-absent
-Monday
-Tuesday
-Wednesday
-Thursday
-keep
-spend
-weekend
-Friday
-Saturday
-Sunday
-lucky
-church -> 68
-dairy
-baker
-grocer
-year -> 69
-race
-town
-crowd
-stand
-exciting
-just
-finish
-winner
-way
-stationer -> 70
-Denmark
-awful -> 71
-time
-answer
-last
-phone
-again
-say
-week -> 73
-London
-suddenly
-bus stop
-smile
-pleasantly
-understand
-speak
-hand
-pocket
-phrasebook
-phrase
-slowly
-hurriedly -> 74
-cut
-thirstily
-go
-greet
-ago -> 75
-buy
-pair
-fashion
-uncomfortable
-wear
-appointment -> 77
-urgent
-till
-shopping -> 78
-list
-vegetable
-need
-hope
-thing
-money
-groceries -> 80
-fruit
-stationery
-newsagent
-chemist
-bath -> 81
-nearly
-ready
-dinner
-restaurant
-roast
-breakfast -> 82
-haircut
-party
-holiday
-mess -> 83
-pack
-suitcase
-leave
-already
-Paris -> 85
-cinema
-film
-beautiful
-city
-never
-ever
-attendant -> 87
-bring
-garage
-crash
-lamp-post
-repair
-try
-believe -> 89
-may
-how long
-since
-why
-sell
-because
-retire
-cost
-pound
-worth
-penny
-still -> 91
-move
-miss
-neighbour
-person
-people
-poor
-pilot -> 93
-return
-New York
-Tokyo
-Madrid
-Athens -> 94
-Berlin
-Bombay
-Geneva
-Moscow
-Rome
-Seoul
-Stockholm
-Sydney
-train -> 95
-platform
-plenty
-bar
-station
-porter
-describe -> 97
-zip
-label
-handle
-address
-pence
-belong
-ow -> 99
-slip
-fall
-downstairs
-hurt
-back
-stand up
-help
-at once
-sure
-X-ray
-licence -> 100
-Scotland -> 101
-card
-youth
-hostel
-association
-soon
-write
-exam -> 103
-pass
-mathematics
-question
-easy
-enough
-paper
-fail
-mark
-rest
-difficult
-hate
-low
-cheer
-guy
-top
-clever -> 104
-stupid
-cheap
-expensive
-stale
-loud
-high
-soft
-sour
-spell -> 105
-intelligent
-mistake
-present
-dictionary
-carry -> 106
-correct
-madam -> 107
-as well
-pretty
-idea -> 109
-a little
-teaspoonful
-less
-a few
-pity
-instead
-advice
-most -> 110
-least
-worse
-worst
-model -> 111
-afford
-deposit
-instalment
-price
-millionaire
-conductor -> 113
-fare
-note
-passenger
-none
-neither
-get off
-tramp
-except
-anyone -> 115
-knock
-everything
-quiet
-impossible
-invite
-anything
-nothing
-lemonade
-joke
-asleep -> 116
-glasses
-dining room -> 117
-coin
-swallow
-later
-toilet
-story -> 119
-happen
-thief
-enter
-dark
-torch
-voice
-parrot
-exercise book -> 120
-customer -> 121
-forget
-manager
-serve
-counter
-recognize
-road -> 122
-during -> 123
-trip
-travel
-offer
-guess
-grow
-beard
-kitten -> 124
-terribly -> 125
-dry
-nuisance
-mean
-surprise
-immediately -> 126
-famous -> 127
-actress
-at least
-actor
-wave -> 129
-track
-mile
-overtake
-speed limit
-dream
-sign
-driving licence
-charge
-darling
-Egypt -> 131
-abroad
-worry
-reporter -> 133
-sensational
-mink coat
-future -> 135
-get married
-hotel
-latest
-introduce
-football -> 137
-pool
-win
-world
-depend
-extra -> 139
-overseas
-engineering
-company
-line
-excited -> 141
-get on
-middle-aged
-opposite
-curiously
-funny
-powder
-compact
-kindly
-ugly
-amused
-embarrassed
-worried -> 142
-regularly
-surround -> 143
-wood
-beauty spot
-hundred
-through
-visitor
-tidy
-litter
-litter basket
-place
-throw
-rubbish
-count
-cover
-piece
-tyre
-rusty
-among
-prosecute
-private -> 2-1
-theatre
-seat
-loudly
-angry
-angrily
-attention
-bear
-business
-rudely
-until -> 2-2
-outside
-ring
-aunt
-repeat
--> 2-3

@@ -208,4 +208,33 @@ def raw(self, raw_query, params=None, translations=None, using=None):
     cursor = connection.cursor()  # cursor = connections['default'].cursor()
     cursor.execute("""SELECT * from auth_user where id = %s""", [1])
     row = cursor.fetchone() # fetchall()/fetchmany(..)
+
+def select_related(self, *fields)
+     性能相关：表之间进行join连表操作，一次性获取关联的数据。
+     model.tb.objects.all().select_related()
+     model.tb.objects.all().select_related('外键字段')
+     model.tb.objects.all().select_related('外键字段__外键字段')
+
+def prefetch_related(self, *lookups)
+    性能相关：多表连表操作时速度会慢，使用其执行多次SQL查询在Python代码中实现连表操作。
+            # 获取所有用户表
+            # 获取用户类型表where id in (用户表中的查到的所有用户ID)
+            models.UserInfo.objects.prefetch_related('外键字段')
+
+
+
+            from django.db.models import Count, Case, When, IntegerField
+            Article.objects.annotate(
+                numviews=Count(Case(
+                    When(readership__what_time__lt=treshold, then=1),
+                    output_field=CharField(),
+                ))
+            )
+
+            students = Student.objects.all().annotate(num_excused_absences=models.Sum(
+                models.Case(
+                    models.When(absence__type='Excused', then=1),
+                default=0,
+                output_field=models.IntegerField()
+            )))
 ```

@@ -1,0 +1,37 @@
+butcher    n.    卖肉者
+meat    n.    肉
+beef    n.    牛肉
+lamb    n.    羔羊肉
+husband    n.    丈夫
+steak    n.    牛排
+
+mince             n.      肉馅
+chicken           n.      鸡
+tell told told    v.      告诉
+truth             n.      实情
+either            adv.    也（用于否定句）
+tomato            n.      西红柿
+potato            n.      土豆
+cabbage           n.      卷心菜
+lettuce           n.      莴苣
+pea               n.      豌豆
+bean              n.      豆角
+pear              n.      梨
+grape             n.      葡萄
+peach             n.      桃
+
+---
+
+1. Do you want beef or lamb?
+   是选择疑问句，第一选择 beef 念升调，lamb 则读降调。
+
+2. I like lamb but my husband doesn't.
+   doesn't 后面省略了 like lamb。用 but 连接的并列句，在后一分句中可以省略与前一分句中相同的谓语动词和宾语。
+
+3. To tell you the truth / To tell the truth，老实说。
+
+4. I don't like chicken either.
+   either 当 "也不" 讲，用在否定句中。
+   肯定句和疑问句用 too。
+
+---

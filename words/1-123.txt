@@ -1,0 +1,19 @@
+during             prep.    在...期间
+trip               n.       旅行
+travel             v.       旅行
+offer              v.       提供
+job                n.       工作
+guess              v.       猜
+grow grew grown    v.       长，让...生长
+beard              n.       (下巴上的) 胡子，络腮胡子
+kitten             n.       小猫
+
+---
+
+1. This is a photograph I took during my trip to Australia.
+   这句话中的 I took during my trip to Australia 是一个定语从句，用来修饰 a photograph; 由于所修饰的名词在从句中作动词 took 的宾语，因此，引导从句的关系代词 that 往往省略。
+
+2. They're people I met during the trip.
+   与注1的情况相同，关系代词 whom 往往省略。
+
+---

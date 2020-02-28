@@ -1,0 +1,46 @@
+mild    adj.    温和的，温暖的
+always    adv.    总是
+
+north                 n.      北方
+east                  n.      东方
+wet                   adj.    潮湿的
+west                  n.      西方
+south                 n.      南方
+season                n.      季节
+best                  adv.    最
+night                 n.      夜晚
+rise                  v.      升起
+early                 adv.    早
+set                   v.      (太阳)落下去
+late                  adv.    晚，迟
+interesting           adj.    有趣的，有意思的
+subject               n.      话题
+conversation          n.      谈话
+Australia             n.      澳大利亚
+Australian            n.      澳大利亚人
+Austria               n.      奥地利
+Austrian              n.      奥地利人
+Canada                n.      加拿大
+Canadian              n.      加拿大人
+China                 n.      中国
+Finland               n.      芬兰
+Finnish               n.      芬兰人
+India                 n.      印度
+Indian                n.      印度人
+Japan                 n.      日本
+Nigeria               n.      尼日利亚
+Nigerian              n.      尼日利亚人
+Turkey                n.      土耳其
+Turkish               n.      土耳其人
+Korea                 n.      韩国
+Poland                n.      波兰
+Polish                n.      波兰人
+Thailand              n.      泰国
+Thai                  n.      泰国人
+
+---
+
+1. in the North = in the north of England
+   North 的第一个字母大写，是因为它单独使用，特指英国北部。
+
+---

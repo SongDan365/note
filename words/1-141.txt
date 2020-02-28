@@ -1,28 +1,40 @@
-ride    n.    乘坐
-excited    adj.    兴奋的
-get on    登上
-middle-aged    adj.   中年的
-opposite    prep.    在...对面
-curiously    adv.    好奇地
-funny    adj.    可笑的，滑稽的
-powder    n.    香粉
-compact    n.    带镜子的化妆盒
-kindly    adv.    和蔼地
-ugly    adj.    丑陋的
-amused    adj.    有趣的
-smile          v.    微笑
-embarrassed    adj.    尴尬的，窘迫的
-put away               收好
-make up                化妆
-worried        adj.    担心的，担忧的
-regularly      adv.    经常地，定期地
-branch         n.      树枝
+ride           n.       乘坐
+excited        adj.     兴奋的
+get on                  登上
+middle-aged    adj.     中年的
+opposite       prep.    在...对面
+curiously      adv.     好奇地
+funny          adj.     可笑的，滑稽的
+powder         n.       香粉
+compact        n.       带镜子的化妆盒
+kindly         adv.     和蔼地
+ugly           adj.     丑陋的
+amused         adj.     有趣的
+smile          v.       微笑
+embarrassed    adj.     尴尬的，窘迫的
+put away                收好
+make up                 化妆
+worried        adj.     担心的，担忧的
+regularly      adv.     经常地，定期地
+branch         n.       树枝
 
 ---
 
 1. my four-year-old daughter, 我那4岁的女儿。
    four-year-old 是名词 daughter 的定语，常常用连字符连在一起，组成一个复合形容词。注意在这个复合词中仅用 year，而不用复数。
 
-2.
+2. Sally was invited to a children's party.
+   这是一个被动语态的例子。
+   在英文中，如果想避免用含混不清的词 (如 someone 等) 作主语，常常可以使用被动语态。
+   被动语态 be + 过去分词
 
-3.
+3. she had never travelled on a train before.
+   before 通常用于现在完成时或过去完成时，ago 用于过去时。
+
+4. be dressed in ... 穿戴着...
+
+5. make up her face，给她的脸化妆。
+
+6. make myself beautiful，把自己打扮漂亮。
+
+---

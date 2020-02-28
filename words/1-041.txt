@@ -25,4 +25,5 @@ quarter          n.         四分之一
    a quarter of，四分之一
    a tin of，一罐，一盒
 
+3. some 用于肯定句，any用于疑问句和否定句。
 ---
